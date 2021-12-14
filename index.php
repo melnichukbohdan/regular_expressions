@@ -3,6 +3,9 @@
 
 <div>
     <h2>regular expression</h2>
-    <a href="/regEx/preg_replace.php">function preg_replace</a>
+    <a href="/regEx/part1.php">part1</a><br>
+    <a href="/regEx/part2.php">part2</a>
+
+
 </div>
 
